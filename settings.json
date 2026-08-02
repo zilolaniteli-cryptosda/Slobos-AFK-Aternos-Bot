@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "zeruxmc-iBEk.aternos.me",
+    "port": 11896,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
