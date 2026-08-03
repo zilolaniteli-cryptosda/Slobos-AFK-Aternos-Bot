@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zeruxmc-iBEk.aternos.me",
-    "port": 11896,
+    "ip": "zeruxmc.aternos.me",
+    "port":  36209,
     "version": "1.21.10",
     "try-creative": false
   },
